@@ -11,3 +11,8 @@ _On commencera par le clone:_
 
 
 c'est a toi , bonne chance
+
+
+## git push
+_git add *_
+_git commit -m message_ 
