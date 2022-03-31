@@ -28,3 +28,8 @@ _git pull_
 ## git log
 
 _git log_ **permet de visualiser les commits effectué**
+
+
+## git are
+
+_git are_ **permet de jouer de la guitare**
