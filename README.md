@@ -14,5 +14,12 @@ c'est a toi , bonne chance
 
 
 ## git push
+
 _git add *_
+
 _git commit -m message_ 
+
+
+## git pull 
+
+_git pull_
