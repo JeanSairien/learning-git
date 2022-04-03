@@ -33,3 +33,8 @@ _git log_ **permet de visualiser les commits effectué**
 ## git revert
 
 _git revert_ **permet de revenir à une version antérieure ex: en cas de bug** 
+
+
+## git checkout 
+
+_git checkout -b <branche>_ **permet de créer une nouvelle branche**
